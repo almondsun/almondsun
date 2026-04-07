@@ -5,12 +5,7 @@ I'm Martín, an Electronic Engineering and Mathematics student focused on Digita
 ### 🔭 I’m currently working on ...
 Research and development of Deep Learning models applied to SDR systems as a member of the Signal Processing & Recognition Group at UNAL Manizales (see [iqodec](https://github.com/almondsun/iqodec))
 
-### 🌱 I’m currently learning ...
-- Modern digital comms architecture
-- Computer Architecture
-- Electronic Systems Design
-
-### 👯 I’m looking to collaborate on ...
+### 👀 I’m looking to collaborate on ...
 - Theory-driven projects with an emphasis on clarity, rigor, and implementation.
 - Advanced Machine Learning
 
