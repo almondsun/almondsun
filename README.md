@@ -18,4 +18,4 @@ Research and development of Deep Learning models applied to SDR systems as a mem
 Email is best. Please, no spam.
 maramirezes@unal.edu.co
 
-Nice to meet you! <img src="assets/bye-bye.gif" width="20" alt="bye-bye" />
+### Nice to meet you! <img src="assets/bye-bye.gif" width="30" alt="bye-bye" />
