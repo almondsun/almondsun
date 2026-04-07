@@ -2,12 +2,12 @@
 
 I'm Martín, an Electronic Engineering and Mathematics student focused on Digital Signal Processing and stochastic analysis.
 
-### 🔭 I’m currently working on ...
-Research and development of Deep Learning models applied to SDR systems as a member of the Signal Processing & Recognition Group at UNAL Manizales (see [iqodec](https://github.com/almondsun/iqodec))
-
 ### 👀 I’m looking to collaborate on ...
 - Theory-driven projects with an emphasis on clarity, rigor, and implementation.
-- Advanced Machine Learning
+- Advanced Machine Learning projects
+
+### 🔭 I’m currently working on ...
+Research and development of Deep Learning models applied to SDR systems as a member of the Signal Processing & Recognition Group at UNAL Manizales (see [iqodec](https://github.com/almondsun/iqodec))
 
 ### 📫 How to reach me ...
 Email is best. Please, no spam.
