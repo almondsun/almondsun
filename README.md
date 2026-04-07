@@ -1,4 +1,4 @@
-## Hi there <div class="tenor-gif-embed" data-postid="14457690" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/the-blobs-live-on-waving-hey-smiling-hi-gif-14457690">Emoji Raises Hand Sticker</a>from <a href="https://tenor.com/search/the+blobs+live+on-stickers">The Blobs Live On Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+## Hi there <img src="assets/waving.gif" width="20" alt="waving" />
 
 <!--
 **almondsun/almondsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
