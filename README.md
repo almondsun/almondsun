@@ -1,4 +1,4 @@
-## Hi there <img src="assets/waving.gif" width="25" alt="waving" />
+## Hi there <img src="assets/waving.gif" width="20" alt="waving" />
 
 <!--
 **almondsun/almondsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
