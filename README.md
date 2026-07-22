@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/martin-ramirez-espinosa/">linkedin</a> ·
     <a href="mailto:maramirezes@unal.edu.co">email</a>
     <br /><br />
-    research engineering · machine-learning systems · signal processing
+    research engineering · machine-learning systems · reliable software
     <br />
     electronic engineering + mathematics @ UNAL · GCPDS
   </samp>
