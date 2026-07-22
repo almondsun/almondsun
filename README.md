@@ -2,10 +2,12 @@
   <samp>
     <a href="https://almondsun.github.io">portfolio</a> ·
     <a href="https://almondsun.github.io/projects/">projects</a> ·
-    <a href="https://almondsun.github.io/about/">about</a> ·
-    <a href="https://github.com/almondsun/ragdoll">ragdoll</a> ·
+    <a href="https://almondsun.github.io/notes/">notes</a> ·
+    <a href="https://www.linkedin.com/in/martin-ramirez-espinosa/">linkedin</a> ·
     <a href="mailto:maramirezes@unal.edu.co">email</a>
     <br /><br />
     research engineering · machine-learning systems · signal processing
+    <br />
+    electronic engineering + mathematics @ UNAL · GCPDS
   </samp>
 </p>
